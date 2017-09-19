@@ -59,9 +59,9 @@ public class poker  {
         Collections.shuffle(array);
         
         
-        
+        System.out.println(hm.size());
         //发牌    发的是编号，为了保证编号是排序的,创建TreeSet对象
-
+          //测试测试
         TreeSet<Integer> luoyu1 = new TreeSet<Integer>();
         
         TreeSet<Integer> luoyu2 = new TreeSet<Integer>();
